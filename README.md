@@ -24,7 +24,7 @@ This project is a Next.js application that demonstrates the core features of Nex
 - **Google Authentication with NextAuth**: Secure Google authentication for login.
 - **Responsive Design**: Fully responsive website to ensure an optimal experience across devices.
 
-  #### Note
-  - **You need to create a .env file in the root with all the credentials for the google cloud consol and MongoDB.
+#### Note
+- You need to create a .env file in the root with all the credentials for the google cloud consol and MongoDB.
  
-  - Kudos to Adrian for the idea.
+- Kudos to Adrian for the idea.
