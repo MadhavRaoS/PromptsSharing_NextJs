@@ -1,14 +1,4 @@
-Here's the revised project description with a more professional tone:
 
----
-
-## Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, [JavaScript Mastery](https://www.youtube.com/@javascriptmastery/videos). 
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner.
-
-[Watch the tutorial](https://youtu.be/wm5gMKuwSYk?feature=shared)
 
 ## Introduction
 
@@ -33,3 +23,8 @@ This project is a Next.js application that demonstrates the core features of Nex
 - **Tag-based Search**: Users can search for prompts by specific tags.
 - **Google Authentication with NextAuth**: Secure Google authentication for login.
 - **Responsive Design**: Fully responsive website to ensure an optimal experience across devices.
+
+  ####Note
+  - **You need to create a .env file in the root with all the credentials for the google cloud consol and MongoDB.
+ 
+  - Kudos to Adrian for the idea.
