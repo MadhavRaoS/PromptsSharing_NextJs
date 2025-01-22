@@ -3,6 +3,7 @@
 ## Introduction
 
 This project is a Next.js application that demonstrates the core features of Next.js while implementing a comprehensive CRUD AI prompt-sharing system. The application uses MongoDB for the database and NextAuth for authentication.
+![Image1](Image.png)
 
 
 ## Tech Stack
